@@ -1,0 +1,8 @@
+total 49
+drwxr-xr-x 1 dese1 197609     0 Apr 17 11:10 ./
+drwxr-xr-x 1 dese1 197609     0 Apr 17 10:48 ../
+drwxr-xr-x 1 dese1 197609     0 Apr 17 10:48 .git/
+-rw-r--r-- 1 dese1 197609  7360 Apr 17 10:48 .gitignore
+-rw-r--r-- 1 dese1 197609 35823 Apr 17 10:48 LICENSE
+-rw-r--r-- 1 dese1 197609    23 Apr 17 10:48 README.md
+-rw-r--r-- 1 dese1 197609     0 Apr 17 11:10 list.txt
